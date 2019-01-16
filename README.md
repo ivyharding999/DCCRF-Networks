@@ -1,6 +1,7 @@
 # Discrete Convolutional CRF Networks for Depth Estimation from Monocular Infrared Images
    This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
   NUSTMS dataset has 5098 pairs of infrared and depth maps gathered by far-infrared camera and ranging radar on a driving vehicle. The resolution of infrared image and corresponding depth map are 576×160 and 144×40 respectively. In our experiments, the dataset is split into a training set (3488 pairs), a validation set (586 pairs) and a test set (1024 pairs).The infrared images and corresponding ground-truth depths are shown below:
+  ![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
   
   Here we give the data link of its training set and test set, please click the link to get the infrared images and the corresponding ground-truth depths.
   [Baidu cloud disk]()
