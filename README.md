@@ -16,7 +16,7 @@
   [our own website]()
 
 ***Data reading method：***
-'''
+```
 def read_hdf5(file_name):
     with h5py.File(file_name, 'r') as f:
         images2 = np.asarray(f['images2'])
@@ -24,4 +24,4 @@ def read_hdf5(file_name):
         depths = np.asarray(f['depths'])
     return images1,images2,images3,images4,depths
 images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
-'''
+```
