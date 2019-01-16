@@ -2,7 +2,9 @@
    This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
   
   
-  NUSTMS dataset has 5098 pairs of infrared and depth maps gathered by far-infrared camera and ranging radar on a driving vehicle. The resolution of infrared image and corresponding depth map are 576×160 and 144×40 respectively. In our experiments, the dataset is split into a training set (3488 pairs), a validation set (586 pairs) and a test set (1024 pairs).The infrared images and corresponding ground-truth depths are shown below:
+  NUSTMS dataset has 5098 pairs of infrared and depth maps gathered by far-infrared camera and ranging radar on a driving vehicle. The resolution of infrared image and corresponding depth map are 576×160 and 144×40 respectively. In our experiments, the dataset is split into a training set (3488 pairs), a validation set (586 pairs) and a test set (1024 pairs).
+  
+  The infrared images,corresponding ground-truth depths and depth estimation results are shown below:
   
   ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
   
