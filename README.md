@@ -13,9 +13,7 @@
   
   [Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
   
-  [google drive]()
-  
-  [our own website]()
+  [our own website](http://173.82.206.254/doku.php?id=public&do=#dokuwiki__top)
 
 ***Data reading method：***
 ```
