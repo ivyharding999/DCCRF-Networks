@@ -1,3 +1,4 @@
+
 # Discrete Convolutional CRF Networks for Depth Estimation from Monocular Infrared Images
 ```
 This repository contains the reference implementation for our proposed DCCRF networks in Tensorflow.
@@ -8,6 +9,10 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
 
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/DATA.png)
+
+***Click the link to get the examples of predicted depth maps on NUSTMS dataset:***
+
+[Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
 
  # Requirements
  
