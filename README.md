@@ -34,7 +34,7 @@ NUSTMS dataset  | infrared images and depth maps  | resolution(infrared images a
  
  testing set  | 1024pair |  576×160,144×40
   
- ## Dataset Link
+ ### Dataset Link
   
 Here we give the data link of its training set and test set, please click the link to get the infrared images and the corresponding ground-truth depths.
   
@@ -44,7 +44,7 @@ Here we give the data link of its training set and test set, please click the li
   
   [our own website](http://173.82.206.254/doku.php?id=public&do=#dokuwiki__top)
 
-## ***Data reading method：***
+### ***Data reading method：***
 ```
 def read_hdf5(file_name):
     with h5py.File(file_name, 'r') as f:
@@ -55,8 +55,8 @@ def read_hdf5(file_name):
 images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
 ```
 # Execute
-## training step
-## test step
+### training step
+### test step
 
 # Citation 
 If you benefit from this project, please consider citing our paper.
