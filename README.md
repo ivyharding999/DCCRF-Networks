@@ -24,15 +24,11 @@ The equipment used to collect the data and an example of raw data are shown in t
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
 
-***NUSTMS dataset | infrared images and depth maps  | resolution(infrared images and depth maps) ***
-
- --------------   | ------------------------------- | ------------------------------------------  
-
- training set     |          3488pair               | 576×160,144×40
-
- validation set   |           586pair               |  576×160,144×40
- 
- testing set      |          1024pair               |  576×160,144×40    
+***NUSTMS         | infrared images    | depth maps 
+ --------------   | ----------------- | ---------------
+ training set     |   3488x576×160    | 3488x144×40
+ validation set   |   586x576×160     |  586x144×40 
+ testing set      |   1024x576×160    |  1024x144×40  ***  
 
   
  ### Dataset Link
