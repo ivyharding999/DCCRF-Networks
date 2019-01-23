@@ -70,9 +70,15 @@ images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
 # Execute
 
 ### training step
+```
+python run train_scale3.py
+```
+
 
 ### test step
-
+```
+python run test_scale3.py
+```
 
 # Citation 
 
