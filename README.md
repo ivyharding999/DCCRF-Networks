@@ -57,9 +57,9 @@ Here we give the data link of its training set and test set, please click the li
 
 
   
-  [Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
+  [ NUSTMS data / Baidu SkyDrive ](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
   
-  [Google drive](https://drive.google.com/open?id=1z0AVvzpzGIiwWBpNqW-x4uh9OenDp5nn)
+  [NUSTMS data / Google drive](https://drive.google.com/open?id=1z0AVvzpzGIiwWBpNqW-x4uh9OenDp5nn)
 
 
 ### ***Data reading method：***
