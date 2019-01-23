@@ -23,7 +23,7 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
 NUSTMS dataset has 5098 pairs of infrared and depth maps gathered by far-infrared camera and ranging radar on a driving vehicle. 
 The equipment used to collect the data and an example of raw data are shown below.
 
-![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
+![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig6.png)
 
 
 
