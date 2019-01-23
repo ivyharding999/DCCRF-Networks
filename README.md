@@ -12,7 +12,7 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
 
 ***Click the link to get the examples of predicted depth maps on NUSTMS dataset:***
 
-[Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
+[Results](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
 
  # Requirements
  
