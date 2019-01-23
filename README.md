@@ -19,6 +19,10 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
 
  # Model
  
+ The below Figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF optimization. 
+ 
+ ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig1.png)
+ 
  
  # Dataset
 
