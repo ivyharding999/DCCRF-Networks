@@ -1,11 +1,11 @@
 # Discrete Convolutional CRF Networks for Depth Estimation from Monocular Infrared Images
 ```
 This repository contains the reference implementation for our proposed DCCRF networks in Temsorflow.
-
+```
 This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
 
 The infrared images,corresponding ground-truth depths and depth estimation results(by DCCRF) are shown below.
-```
+
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/DATA.png)
 
@@ -20,9 +20,9 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
  To install those python packages run pip numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
 
  # Model
- ```
+
 The below Figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF optimization. 
- ```
+
  ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig1.png)
  
  
@@ -47,9 +47,9 @@ The equipment used to collect the data and an example of raw data are shown belo
   
 
 ### Dataset Link
-```  
+ 
 Here we give the data link of its training set and test set, please click the link to get the infrared images and the corresponding ground-truth depths.
-```
+
 
   
   [Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
