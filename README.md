@@ -17,13 +17,15 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
  # Requirements
  
  ### Plattform 
+ ```
  Linux, python3 >= 3.4, Tensorflow >=1.2
- 
+ ```
  ### Python Packages 
+ ```
  numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle
  
  To install those python packages run pip numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
-
+```
  # Model
 
 The below Figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF optimization. 
