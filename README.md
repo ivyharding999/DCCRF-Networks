@@ -17,6 +17,8 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
  
  To install those python packages run pip numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
 
+ # Model
+ 
  
  # Dataset
 
