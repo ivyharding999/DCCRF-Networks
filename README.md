@@ -5,7 +5,7 @@ This paper focuses on depth estimation from monocular infrared images, which is 
 
 The infrared images,corresponding ground-truth depths and depth estimation results(by DCCRF) are shown below.
   
-  ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
+![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/DATA.png)
 
  # Requirements
  
