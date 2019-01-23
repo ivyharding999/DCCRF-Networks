@@ -9,9 +9,9 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
 
  # Requirements
  
- ## Plattform: Linux, python3 >= 3.4, Tensorflow >=1.2
+ ### Plattform: Linux, python3 >= 3.4, Tensorflow >=1.2
  
- ## Python Packages: numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle
+ ### Python Packages: numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle
  
  To install those python packages run pip numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
  
