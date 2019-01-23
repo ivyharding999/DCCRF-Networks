@@ -3,7 +3,7 @@ This repository contains the reference implementation for our proposed DCCRF net
 
 This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
 
-The infrared images,corresponding ground-truth depths and depth estimation results(by DCCRF) are shown below:
+The infrared images,corresponding ground-truth depths and depth estimation results(by DCCRF) are shown below.
   
   ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
 
@@ -20,10 +20,11 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
  # Dataset
 
 NUSTMS dataset has 5098 pairs of infrared and depth maps gathered by far-infrared camera and ranging radar on a driving vehicle. 
-The equipment used to collect the data and an example of raw data are shown in the next.
+The equipment used to collect the data and an example of raw data are shown below.
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
 
+### Data structure
 
    NUSTMS         | Infrared images   | Ground-Truth Depth
  --------------   | ----------------- | ---------------
