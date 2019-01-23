@@ -16,6 +16,7 @@ The infrared images,corresponding ground-truth depths and depth estimation resul
  numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle
  
  To install those python packages run pip numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
+
  
  # Dataset
 
@@ -24,7 +25,10 @@ The equipment used to collect the data and an example of raw data are shown belo
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/data.png)
 
+
+
 ### Data structure
+
 
    NUSTMS         | Infrared images   | Ground-Truth Depth
  --------------   | ----------------- | ---------------
@@ -33,15 +37,18 @@ The equipment used to collect the data and an example of raw data are shown belo
  testing set      |   1024x576×160    |  1024x144×40    
 
   
- ### Dataset Link
+
+### Dataset Link
   
 Here we give the data link of its training set and test set, please click the link to get the infrared images and the corresponding ground-truth depths.
+
   
   [Baidu cloud disk](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
   
   [Google drive](https://drive.google.com/open?id=1z0AVvzpzGIiwWBpNqW-x4uh9OenDp5nn)
   
   [our own website](http://173.82.206.254/doku.php?id=public&do=#dokuwiki__top)
+
 
 ### ***Data reading method：***
 ```
@@ -53,14 +60,22 @@ def read_hdf5(file_name):
     return images1,images2,images3,images4,depths
 images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
 ```
+
 # Execute
+
 ### training step
+
 ### test step
 
+
 # Citation 
+
 If you benefit from this project, please consider citing our paper.
 
+
 # TODO
+
 •	 Build a Tensorflow 1.4 implementation
+
 •	 Provide python 3 implementation
 
