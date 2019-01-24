@@ -44,7 +44,7 @@ The equipment used to collect the data and an example of raw data are shown belo
 
 
 ### Data structure
-
+```
 
    NUSTMS         | Infrared images   | Ground-Truth Depth
  --------------   | ----------------- | ---------------
@@ -52,7 +52,7 @@ The equipment used to collect the data and an example of raw data are shown belo
  Validation set   |   586x576×160     |  586x144×40 
  Testing set      |   1024x576×160    |  1024x144×40    
 
-  
+``` 
 
 ### Dataset Link
  
@@ -69,11 +69,11 @@ Here we give the data link of its training set and test set, please click the li
 ```
 def read_hdf5(file_name):
     with h5py.File(file_name, 'r') as f:
-        images2 = np.asarray(f['images2'])
-        images4 = np.asarray(f['images4'])
+        images1 = np.asarray(f['images2'])
+        images2 = np.asarray(f['images4'])
         depths = np.asarray(f['depths'])
-    return images1,images2,images3,images4,depths
-images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
+    return images1,images2,depths
+images1,images2,depths = read_hdf5('test_data.h5')
 ```
 
 # Execute
