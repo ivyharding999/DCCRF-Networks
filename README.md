@@ -78,13 +78,13 @@ images1,images2,images3,images4,depths = read_hdf5('test_data.h5')
 
 # Execute
 
-### training step
+### training stage
 ```
 python run train_scale3.py
 ```
 
 
-### test step
+### test stage
 ```
 python run test_scale3.py
 ```
