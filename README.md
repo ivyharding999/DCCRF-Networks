@@ -65,7 +65,7 @@ Here we give the data link of its training set and test set, please click the li
   [NUSTMS data / Google drive](https://drive.google.com/open?id=1z0AVvzpzGIiwWBpNqW-x4uh9OenDp5nn)
 
 
-### ***Data reading method：***
+### Data reading method：
 ```
 def read_hdf5(file_name):
     with h5py.File(file_name, 'r') as f:
