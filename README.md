@@ -9,9 +9,9 @@ Examples of predicted depth maps on NUSTMS dataset: Infrared Image (top row), Gr
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/DATA.png)
 
-```
-Click the link to get some examples of predicted depth maps on NUSTMS dataset:
-```
+
+### Click the link to get some examples of predicted depth maps on NUSTMS dataset:
+
 
 [Results](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
 
