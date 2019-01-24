@@ -1,8 +1,8 @@
 
 # Discrete Convolutional CRF Networks for Depth Estimation from Monocular Infrared Images
-```
+
 This repository contains the reference implementation for our proposed DCCRF networks in Tensorflow.
-```
+
 This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
 
 Examples of predicted depth maps on NUSTMS dataset: Infrared Image (top row), Ground-Truth Depth (center) and Predicted Depth Maps (bottom row).
