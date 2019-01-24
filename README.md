@@ -29,7 +29,7 @@ Examples of predicted depth maps on NUSTMS dataset: Infrared Image (top row), Gr
  ```
  # Model
 
-The below Figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF optimization. 
+The figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF loss layer. 
 
  ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig1.png)
  
