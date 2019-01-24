@@ -5,13 +5,19 @@ This repository contains the reference implementation for our proposed DCCRF net
 
 This paper focuses on depth estimation from monocular infrared images, which is essential for understanding the structure of 3D scene and can promote the development of night vision applications. 
 
+# Model
+
+The figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF loss layer. 
+
+ ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig1.png)
+
+# Results
+
 Examples of predicted depth maps on NUSTMS dataset: Infrared Image (top row), Ground-Truth Depth (center) and Predicted Depth Maps (bottom row).
 
 ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/DATA.png)
 
-
 ### Click the link to get some examples of predicted depth maps on NUSTMS dataset:
-
 
 [Results](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
 
@@ -29,11 +35,7 @@ Examples of predicted depth maps on NUSTMS dataset: Infrared Image (top row), Gr
  ```
  pip install numpy, h5py, math, os, scipy.stats, cython, time, scikit-image, matplotlib, pickle.
  ```
- # Model
-
-The figure shows the proposed DCCRF, which has two components, one of them for feature learning and another for CRF loss layer. 
-
- ![image](https://github.com/ivyharding999/Discrete-Convolutional-CRF-Networks-for-Depth-Estimation-from-Monocular-Infrared-Images/blob/master/Infrared%20images/Fig1.png)
+ 
  
  
  # Dataset
