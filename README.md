@@ -48,9 +48,9 @@ The equipment used to collect the data and an example of raw data are shown belo
 
    NUSTMS         | Infrared images   | Ground-Truth Depth
  --------------   | ----------------- | ---------------
- training set     |   3488x576×160    |  3488x144×40
- validation set   |   586x576×160     |  586x144×40 
- testing set      |   1024x576×160    |  1024x144×40    
+ Training set     |   3488x576×160    |  3488x144×40
+ Validation set   |   586x576×160     |  586x144×40 
+ Testing set      |   1024x576×160    |  1024x144×40    
 
   
 
@@ -60,7 +60,7 @@ Here we give the data link of its training set and test set, please click the li
 
 
   
-  [ NUSTMS data / Baidu SkyDrive ](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
+  [NUSTMS data / Baidu SkyDrive](https://pan.baidu.com/s/1P8570lNk1JMvTTCARrDvaQ)
   
   [NUSTMS data / Google drive](https://drive.google.com/open?id=1z0AVvzpzGIiwWBpNqW-x4uh9OenDp5nn)
 
